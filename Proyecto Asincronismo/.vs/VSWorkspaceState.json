@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\CallBack"
+    "\\src\\CallBack",
+    "\\src\\Promise"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\src\\Promise\\Playground.js",
   "PreviewInSolutionExplorer": false
 }
