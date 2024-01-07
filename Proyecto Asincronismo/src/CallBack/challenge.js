@@ -46,3 +46,4 @@ fetchData(`${API}/products`, function (error1, data1) {
 });
 
 // node challenge.js
+// npm run callback
