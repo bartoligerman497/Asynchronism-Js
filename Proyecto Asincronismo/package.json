@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "node-fetch": "^3.3.2",
     "xhr2": "^0.2.1",
     "xmlhttprequest": "^1.8.0"
   },
@@ -7,12 +8,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "javascript"
+    "callback": "node src/callback/challenge.js"
   },
   "keywords": [
     "javascript"
   ],
   "author": "German Bartoli",
   "license": "MIT",
-  "description": ""
+  "description": "",
+  "type": "module"
 }
