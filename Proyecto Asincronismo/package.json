@@ -8,7 +8,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "callback": "node src/callback/challenge.js"
+    "callback": "node src/callback/challenge.js",
     "deploy": "gh-pages -d src"
   },
   "keywords": [
