@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Cosas\\Mi Unidad\\Platzi\\Curso-Asincronismo-Js-Platzi\\Proyecto Asincronismo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cosas\\Mi Unidad\\Platzi\\Curso-Asincronismo-Js-Platzi\\Proyecto Asincronismo\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cosas\\Mi Unidad\\Platzi\\Curso-Asincronismo-Js-Platzi\\Proyecto Asincronismo\\src\\Async Landing\\assets\\main.js||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Async Landing\\assets\\main.js||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\Cosas\\Mi Unidad\\Platzi\\Curso-Asincronismo-Js-Platzi\\Proyecto Asincronismo\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "D:\\Cosas\\Mi Unidad\\Platzi\\Curso-Asincronismo-Js-Platzi\\Proyecto Asincronismo\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T03:41:02.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "main.js",
               "DocumentMoniker": "D:\\Cosas\\Mi Unidad\\Platzi\\Curso-Asincronismo-Js-Platzi\\Proyecto Asincronismo\\src\\Async Landing\\assets\\main.js",
               "RelativeDocumentMoniker": "src\\Async Landing\\assets\\main.js",
               "ToolTip": "D:\\Cosas\\Mi Unidad\\Platzi\\Curso-Asincronismo-Js-Platzi\\Proyecto Asincronismo\\src\\Async Landing\\assets\\main.js",
               "RelativeToolTip": "src\\Async Landing\\assets\\main.js",
-              "ViewState": "AQIAABsAAAAAAAAAAAA6wDEAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-03-23T22:37:11.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "index.html",
               "DocumentMoniker": "D:\\Cosas\\Mi Unidad\\Platzi\\Curso-Asincronismo-Js-Platzi\\Proyecto Asincronismo\\src\\Async Landing\\assets\\index.html",
               "RelativeDocumentMoniker": "src\\Async Landing\\assets\\index.html",
@@ -51,8 +68,7 @@
               "RelativeToolTip": "src\\Async Landing\\assets\\index.html",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-03-23T22:08:07.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-23T22:08:07.316Z"
             }
           ]
         }
