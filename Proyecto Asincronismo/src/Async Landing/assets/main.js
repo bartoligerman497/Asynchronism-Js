@@ -2,6 +2,8 @@
 
 // https://rapidapi.com/ytdlfree/api/youtube-v31
 
+// https://es.javascript.info/script-async-defer
+
 // Playlist Details
 // id: PLZKchZBAvqLOzYzbvYefiWHCd7bXktMyV
 
