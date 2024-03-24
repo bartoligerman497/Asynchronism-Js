@@ -9,7 +9,7 @@
   "main": "index.js",
   "scripts": {
     "callback": "node src/callback/challenge.js",
-    "deploy": "main -d src/Async Landing"
+    "deploy": "main -d Proyecto/ Asincronismosrc/Async Landing"
   },
   "keywords": [
     "javascript"
